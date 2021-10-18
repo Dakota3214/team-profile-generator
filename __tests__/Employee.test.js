@@ -28,3 +28,4 @@ test("gets employee's email address", () => {
 
   expect(employee.getEmail()).toBe(employee.email);
 });
+
